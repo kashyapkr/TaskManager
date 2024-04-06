@@ -1,0 +1,59 @@
+@charset "ISO-8859-1";
+
+.row-checkbox {
+	transform: scale(2); /* You can adjust the scale factor as needed */
+	margin-right: 10px; /* Adjust the margin to provide some space */
+}
+body {
+    background-color: #c5aeeb;
+    background-image: url("images/bgpng.png");
+    
+}
+
+.small-font {
+	font-size: 12px;
+	color: rgb(0, 0, 0);
+}
+
+.selected-row {
+	background-color: #e4b8d9;
+}
+
+.centred {
+	text-align: center;
+}
+.card {
+      width: 400px;
+      margin-top: 90px;
+    }
+ .center-form {
+      display: flex;
+      
+      justify-content: center;
+      height: 60vh;
+    }
+
+.table{
+	margin-top:40px;
+	background-color: #ffccf4;
+	box-shadow: 0 6px 11px rgba(1, 5, 5, 2);
+
+
+}
+
+.navbar-toggler{
+	background-color: #b36eff;
+	background-image: url("images/td.png");
+	 background-size: cover;
+	 box-shadow: 0 6px 11px rgba(1, 5, 5, 2);
+}
+#dropdownMenuButton{
+	box-shadow: 0 6px 11px rgba(1, 5, 5, 2);
+	background-color: 1C1351;
+}
+#mdo{
+    background-color: F995A7;
+    color: white;
+    box-shadow: 0 6px 11px rgba(1, 5, 5, 2);
+    /* Add any other styles you want */
+}
